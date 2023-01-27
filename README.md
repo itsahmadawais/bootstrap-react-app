@@ -72,7 +72,7 @@ With these tools in place, you can spend more time focusing on the main function
 
 ## Author
 
-Your Name
+Awais Ahmad
 
 ## License
 
